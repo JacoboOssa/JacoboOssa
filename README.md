@@ -1,52 +1,52 @@
 <div id="header" align="center">
-<img  src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200"/>
-<h1 align="center">Hi👋, I'm Jacobo</h1>
-<h3 align="center">I am a fifth-semester student of Systems Engineering at Icesi University in Cali, Colombia. I am passionate about technology and its advancements over time. I enjoy learning new techniques, languages, and staying up to date with the latest developments.</h3>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200"/>
+  <h1 align="center">Hi👋, I'm Jacobo</h1>
+  <h3 align="center">
+    I am an eighth-semester student of Systems Engineering at Icesi University in Cali, Colombia. Passionate about technology, I thrive on exploring its advancements and leveraging them to develop impactful solutions. Currently, I am working on personal projects that challenge me to integrate and expand my technical knowledge.  
+  </h3>
 </div>
 
- ---
- ###   :coffee: About Me:
+---
 
-  -:computer: I’m currently learning **JS and Node**.
-  
-  -:bulb: I like to work on personal Projects
-  
-  -:soccer: Talk to me about football
-  
-  -:inbox_tray: How to reach me jaco2419@gmail.com
-  
-  -:green_heart: Solo Deportivo Cali <3
+### ☕ About Me:
 
-  ---
+- 💻 I’m currently focused on **Node.js, NestJS, Spring Boot, Next.js, GraphQL, and database technologies** like **MongoDB, PostgreSQL, and OracleDB**.
   
-###  :hammer:Languages and Tools:
+- 💡 I enjoy working on **personal projects** that allow me to apply my skills and explore new technologies.  
+
+- ⚽ Talk to me about football, especially **Deportivo Cali** 💚.  
+
+- 📫 How to reach me: **jaco2419@gmail.com**
+
+---
+
+### 🔧 Languages and Tools:
 
 <p align="left">
-<!--Java -->
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!--C++-->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>
-<!--Python -->
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="html5" width="40" height="40"/> </a>
-<!--JavaScript -->
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!-- HTML -->
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!--CSS 3 -->
- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+  <!-- Spring Boot -->
+  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
+  <!-- MongoDB -->
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <!-- PostgreSQL -->
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <!-- OracleDB -->
+  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="oracle" width="40" height="40"/> </a>
+
 </p>
 
 ---
-### :mailbox: Social Media
+
+### 📬 Social Media:
 
 <div> 
-  <a href = "mailto:jaco2419@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jaco2419@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jacoboossag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/jacobo-ossa-guarnizo-9375a12b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-  
-  
-
-
